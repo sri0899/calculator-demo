@@ -16,7 +16,8 @@ You can try it live here: [sri0899.github.io/calculator-demo](https://sri0899.gi
 
 ## 📸 Demo Screenshot
 
-![Calculator Screenshot](screenshot.png) <!-- Replace with actual screenshot file if available -->
+<img width="622" height="902" alt="image" src="https://github.com/user-attachments/assets/2553a7e2-d8ad-48fe-881b-edc226ebe629" />
+ <!-- Replace with actual screenshot file if available -->
 
 ---
 
